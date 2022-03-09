@@ -25,8 +25,7 @@ Gosto de jogos, programação, ouvir músicas e compartilhar e ouvir pensamentos
 <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"> <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white">
 
 ### Analytics:
-
-<img src="https://github-readme-stats.vercel.app/api?username=KaduPrays&theme=blue-green"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaduPrays&theme=blue-green">
+<img src="https://img.shields.io/github/followers/KaduPrays.svg?style=social&label=Follow&maxAge=3009"> <img src="https://github-readme-stats.vercel.app/api?username=KaduPrays&theme=blue-green">
 
 
   <div style="display: inline_block"><br>
