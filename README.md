@@ -26,6 +26,7 @@ Gosto de jogos, programação, ouvir músicas e compartilhar e ouvir pensamentos
 
 ### Analytics:
 
+<img src="https://github-readme-stats.vercel.app/api?username=KaduPrays&theme=blue-green">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaduPrays&theme=blue-green">
 
 
