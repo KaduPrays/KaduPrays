@@ -23,7 +23,6 @@
 
 ### 🚀 Projetos em destaque
 
-- **Volare Financeiro** — SaaS de finanças pessoais *(em desenvolvimento)*
 - **[portifolio](https://github.com/KaduPrays/portifolio)** — meu portfólio pessoal
 - **[Theme-Pterodactyl-0.7](https://github.com/KaduPrays/Theme-Pterodactyl-0.7)** — tema para o painel Pterodactyl
 
