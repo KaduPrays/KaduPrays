@@ -14,15 +14,10 @@
 
 ### 🧑‍💻 Sobre mim
 
-- 🎓 Cursando **Engenharia de Software** na Estácio
-- 💼 Trabalho com automação de rotinas e integrações via API na área de RH/DP
+- 🎓 Cursando **Engenharia de Software**
+- 💼 Trabalho com automação de rotinas e integrações via API
 - 🔧 Formado em Mecânica Automotiva e curioso por eletrônica (ESP32, IoT)
 - 🎮 Gosto de jogos, música e de trocar ideias
-
-### 🚀 Projetos em destaque
-
-- **[portifolio](https://github.com/KaduPrays/portifolio)** — meu portfólio pessoal
-- **[Theme-Pterodactyl-0.7](https://github.com/KaduPrays/Theme-Pterodactyl-0.7)** — tema para o painel Pterodactyl
 
 ### 🛠️ Tecnologias
 
